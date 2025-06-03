@@ -1,0 +1,14 @@
+nav{
+    background-color: gray;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:flex;
+
+    justify-content: space-evenly;
+}
+li a{
+    display: inline-block;
+}
